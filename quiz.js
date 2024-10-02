@@ -1,3 +1,4 @@
+//Function that checks the correct answer and print a message
 function checkAnswer() {
     let correctAnswer = '4';
     let userAnswer;
